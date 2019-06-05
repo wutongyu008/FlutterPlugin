@@ -1,0 +1,52 @@
+PODS:
+  - Flutter (1.0.0)
+  - FlutterPluginRegistrant (0.0.1):
+    - Flutter
+    - path_provider
+    - shared_preferences
+    - sqflite
+  - FMDB (2.7.5):
+    - FMDB/standard (= 2.7.5)
+  - FMDB/standard (2.7.5)
+  - path_provider (0.0.1):
+    - Flutter
+  - shared_preferences (0.0.1):
+    - Flutter
+  - sqflite (0.0.1):
+    - Flutter
+    - FMDB (~> 2.7.2)
+
+DEPENDENCIES:
+  - Flutter (from `/Users/qiuming/Desktop/EZFlutter/.ios/Flutter/engine`)
+  - FlutterPluginRegistrant (from `/Users/qiuming/Desktop/EZFlutter/.ios/Flutter/FlutterPluginRegistrant`)
+  - path_provider (from `/Users/qiuming/Desktop/EZFlutter/.ios/Flutter/.symlinks/path_provider/ios`)
+  - shared_preferences (from `/Users/qiuming/Desktop/EZFlutter/.ios/Flutter/.symlinks/shared_preferences/ios`)
+  - sqflite (from `/Users/qiuming/Desktop/EZFlutter/.ios/Flutter/.symlinks/sqflite/ios`)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - FMDB
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: "/Users/qiuming/Desktop/EZFlutter/.ios/Flutter/engine"
+  FlutterPluginRegistrant:
+    :path: "/Users/qiuming/Desktop/EZFlutter/.ios/Flutter/FlutterPluginRegistrant"
+  path_provider:
+    :path: "/Users/qiuming/Desktop/EZFlutter/.ios/Flutter/.symlinks/path_provider/ios"
+  shared_preferences:
+    :path: "/Users/qiuming/Desktop/EZFlutter/.ios/Flutter/.symlinks/shared_preferences/ios"
+  sqflite:
+    :path: "/Users/qiuming/Desktop/EZFlutter/.ios/Flutter/.symlinks/sqflite/ios"
+
+SPEC CHECKSUMS:
+  Flutter: 58dd7d1b27887414a370fcccb9e645c08ffd7a6a
+  FlutterPluginRegistrant: 678dbe0e9625c287462b8d09c08decaa45792e8a
+  FMDB: 2ce00b547f966261cd18927a3ddb07cb6f3db82a
+  path_provider: f96fff6166a8867510d2c25fdcc346327cc4b259
+  shared_preferences: 1feebfa37bb57264736e16865e7ffae7fc99b523
+  sqflite: ff1d9da63c06588cc8d1faf7256d741f16989d5a
+
+PODFILE CHECKSUM: 3220a15ec0d47548f98ed792014db73710658110
+
+COCOAPODS: 1.6.0
